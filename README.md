@@ -2,4 +2,4 @@
 - 👀 I’m interested at Coding.
 - 🌱 I’m currently learning nothing
 
-Please visit https://sebotime.github.io/
+Please visit my website: https://sebotime.github.io/
